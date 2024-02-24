@@ -1,0 +1,2 @@
+link do git para download:https://git-scm.com/downloads
+o Git Bash e um terminal extendido para otimizar o uso do git
